@@ -1,0 +1,2 @@
+sc.exe  delete DbUpdater
+sc.exe  create DbUpdater binpath= C:\temp\DbInfoUpdater\DbInfoUpdater.exe start= auto
